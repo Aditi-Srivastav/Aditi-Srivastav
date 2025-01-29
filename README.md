@@ -25,5 +25,5 @@ This repository is my starting point on GitHub, where I’ll be sharing:
 I’m always open to collaboration, learning, and sharing knowledge. Feel free to reach out to me!
 
 📩 Email: aditisrivastava1sept@gmail.com
-🔗 LinkedIn: Aditi Srivastava
-🌍 GitHub: Aditi-Srivastav
+🔗 LinkedIn: https://www.linkedin.com/in/aditi-srivastava-007259264
+🌍 GitHub: https://github.com/Aditi-Srivastav
