@@ -1,6 +1,6 @@
-🚀 Welcome to My GitHub Repository!
-
-Hi there! 👋 I'm Aditi Srivastava, a 3rd-year B.Tech Computer Science student at AKTU, Lucknow. I have a strong interest in Data Analysis and Web Development, and I love exploring new technologies and solving problems through code.
+# Hi there! 👋 I'm Aditi Srivastava,
+Welcome to my Github Repositry
+I'm a 3rd-year B.Tech Computer Science student at AKTU, Lucknow. I have a strong interest in Data Analysis and Web Development, and I love exploring new technologies and solving problems through code.
 🌟 About Me
 
     🎓 B.Tech CSE | Institute of Engineering and Rural Technology, Prayagraj (Affiliated with AKTU, Lucknow)
